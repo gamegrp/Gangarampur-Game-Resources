@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "version": "148b7fcf44f2430a",
+  "files": [
+    {
+      "id": "audio/scenes/driver-board.wav",
+      "bytes": 15478,
+      "sha256": "a2b8a687ae4cb64d41557500078ed3d8f49236c07fa3dae4b3dcbcb7ac408f07"
+    },
+    {
+      "id": "audio/scenes/helicopter-fire.wav",
+      "bytes": 32236,
+      "sha256": "45d76cfd9c1aaff99a7231be54f97a114f67c0c5d783965bda0297e5b1dfd27f"
+    },
+    {
+      "id": "audio/scenes/passenger-board.wav",
+      "bytes": 18566,
+      "sha256": "a76ac2a0bb257980c9b84c85c88e57532946794a730e3dc998a29608ecd6e3f0"
+    },
+    {
+      "id": "audio/scenes/weapon-fire.wav",
+      "bytes": 17244,
+      "sha256": "51ae65a05b50d57db62a1936d341a991a145593a3aeacbb19d04c6d5261a8c18"
+    },
+    {
+      "id": "maps/audio-events.json",
+      "bytes": 217,
+      "sha256": "d91580e7dcae40568e44cd54d7385d296fd1f6d242263f1dfa71774d444d42c9"
+    }
+  ]
+}

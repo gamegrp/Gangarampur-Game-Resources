@@ -1,0 +1,6 @@
+{
+  "weapon_fire": "audio/scenes/weapon-fire.wav",
+  "helicopter_fire": "audio/scenes/helicopter-fire.wav",
+  "driver_board": "audio/scenes/driver-board.wav",
+  "passenger_board": "audio/scenes/passenger-board.wav"
+}
